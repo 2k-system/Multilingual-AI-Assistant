@@ -1,0 +1,13 @@
+---
+
+### 2. Step-by-Step GitHub Upload Guide
+
+#### Step A: Create a `.gitignore`
+Before you upload, you **must** prevent your private API keys and temporary files from going public. Create a file named `.gitignore` in your root:
+
+```text
+.env
+venv/
+__pycache__/
+*.mp3
+.streamlit/config.toml (optional - keep if you want others to see your theme)

@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00f2ff"  # Electric Cyan
+backgroundColor = "#0a0b10" # Deep Midnight
+secondaryBackgroundColor = "#161b22" # Soft Obsidian
+textColor = "#e6edf3"
+font = "sans serif"
