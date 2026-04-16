@@ -1,4 +1,4 @@
-# 🎙️ Nova AI: Multilingual Voice Assistant
+# 🎙️ System AI: Multilingual Voice Assistant
 
 Nova AI is a premium, glassmorphic voice assistant built with **Streamlit** and **Gemini 2.5/3.1**. It captures voice input, processes it using Google's latest Generative AI models, and provides both text and synthesized speech responses.
 
